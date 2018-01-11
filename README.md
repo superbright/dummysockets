@@ -22,6 +22,7 @@ For aws.json format should be as
 
 After setting up AWS Keys, RUN
 > npm install
+
 > The project uses ES6 syntax, soo keep mind that you will need BABEL CLI installed.
 
 ### RUN
